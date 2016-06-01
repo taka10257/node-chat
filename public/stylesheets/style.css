@@ -7,16 +7,6 @@ a {
   color: #00B7FF;
 }
 
-ul#tiqav {
-  list-style: none;
-}
-
-ul#tiqav li {
-  padding : 5px;
-  background-color: #FFBBBB;
-  float: left;
-}
-
 #chat {
   clear: left;
 }
